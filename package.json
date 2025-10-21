@@ -28,3 +28,8 @@
     "setupFiles": ["<rootDir>/jest.setup.js"]
   }
 }
+    ,
+>>>>>>> 73f42bf (chore: preparar workspace para reescritura de commits)
+    "setupFiles": ["<rootDir>/jest.setup.js"]
+  }
+}
